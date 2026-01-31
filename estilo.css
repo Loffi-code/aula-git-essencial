@@ -1,0 +1,32 @@
+#topo {
+    background-color: red;
+    margin: 0%;
+}
+
+.subtopo {
+    text-align: center;
+    background-color: gray;
+}
+.produto1 {
+    background-color: orange;
+}
+h1 {
+    margin: 30px 0px 30px 0px;
+}
+
+.produto2 {
+    border: 1px solid rgb(30, 30, 30);
+    margin: 5px;
+}
+.celular1 {
+    background-color: orange;
+}
+.celular2 {
+    background-color: orange;
+}
+.celular3 {
+    border: 1px solid rgb(30, 30, 30);
+}
+.celular4 {
+    border: 1px solid rgb(30, 30, 30);
+}
