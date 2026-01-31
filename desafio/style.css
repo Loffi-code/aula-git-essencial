@@ -1,0 +1,19 @@
+#topo {
+    background-color: yellow;
+}
+
+.dev-android {
+   background-color: gray;
+}
+
+.dev-ios {
+   background-color: gray;
+}
+
+.dev-flutter {
+   background-color: orange;
+}
+.rodape {
+    padding: 0%;
+    border: 1px solid black;
+}
